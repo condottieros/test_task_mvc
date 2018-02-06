@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/config/autoload.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/config/config.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/config/constants.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/controllers/AdminController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/controllers/ErrorController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/controllers/PostController.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/models/Post.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Connection.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Controller.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Dispatcher.php" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/Model.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Paginator.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/Request.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/User.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/admin/create.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/admin/index.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/admin/login.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/admin/posts.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/partials/admin_nav.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/partials/archive_nav.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/partials/footer.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/partials/header.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/partials/lastpost_link.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/partials/post_list.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/post/archive.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/post/detail.php" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/views/post/index.php" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
